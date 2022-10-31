@@ -5,7 +5,7 @@
   font-family: "Lato", sans-serif;
 }
 
-.aaa {
+.inf-matrix {
   width: 500px;
   margin: 0 auto;
   display: block;
@@ -16,13 +16,13 @@
   width: 100%;
 }
 
-.aaa .more-inf {
+.inf-matrix .more-inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
   
-  .aaa { 
+  .inf-matrix { 
     text-align: center;
   }
 
