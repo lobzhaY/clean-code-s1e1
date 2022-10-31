@@ -16,7 +16,7 @@
   width: 100%;
 }
 
-.aaa .more_inf {
+.aaa .more-inf {
   font-family: fantasy, cursive;
 }
 
@@ -164,11 +164,11 @@
   display: none;
 }
 
-.editMode .input-text {
+.edit-mode .input-text {
   display: inline-block;
   width: 224px;
 }
 
-.editMode .all-labels {
+.edit-mode .all-labels {
   display: none;
 }
